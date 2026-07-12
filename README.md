@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1331-rank-transform-of-an-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
