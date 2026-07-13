@@ -1,17 +1,14 @@
 class Solution {
 public:
     vector<int> sequentialDigits(int low, int high) {
+        string s = "123456789";
         vector<int>ans;
-
-        for(int i=1;i<9;i++){
-            int num = 0;
-            for(int j = i ;j<=9;j++){
-                num = num * 10 + j;
+        for(int len = 2;len <=9;len++){
+            for(int i=0;i<= 9 - len;i++){
+                int num = stoi(s.substr(i,len));
 
                 if(num >= low && num <= high){
                     ans.push_back(num);
-
-                    if(num > high)break;
                 }
             }
         }
