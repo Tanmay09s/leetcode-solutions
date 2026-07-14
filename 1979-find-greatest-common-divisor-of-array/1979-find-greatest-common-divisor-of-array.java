@@ -1,24 +1,22 @@
 class Solution {
 
-    public int helper(int a,int b){
-        while(b != 0){
-            int temp = b;
-            b = a % b;
-            a = temp;
+    public int gcd(int maxi,int mini){
+        for(int i = maxi;i>=1;i--){
+            if(maxi % i == 0 && mini % i == 0)return i;
         }
-        return a;
+        return 1;
     }
-    public int findGCD(int[] arr) {
+    public int findGCD(int[] nums) {
         int mini = Integer.MAX_VALUE;
         int maxi = Integer.MIN_VALUE;
 
-        int n = arr.length;
+        int n = nums.length;
 
-        for(int i=0;i<n;i++){
-            mini = Math.min(mini,arr[i]);
-            maxi = Math.max(maxi,arr[i]);
+        for(int i : nums){
+            mini = Math.min(mini,i);
+            maxi = Math.max(maxi,i);
         }
 
-        return helper(maxi,mini);
+        return gcd(maxi,mini);
     }
 }
