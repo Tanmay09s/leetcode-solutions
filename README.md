@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0367-valid-perfect-square](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
