@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay09s/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay09s/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
