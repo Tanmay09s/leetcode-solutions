@@ -1,11 +1,14 @@
 class Solution {
 
     public int gcd(int maxi,int mini){
-        for(int i = maxi;i>=1;i--){
-            if(maxi % i == 0 && mini % i == 0)return i;
-        }
-        return 1;
+    while(mini != 0){
+        int temp = mini;
+        mini = maxi % mini;
+        maxi = temp;
     }
+    return maxi;
+    }
+
     public int findGCD(int[] nums) {
         int mini = Integer.MAX_VALUE;
         int maxi = Integer.MIN_VALUE;
