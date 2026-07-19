@@ -2,26 +2,28 @@ class Solution {
 public:
     string smallestSubsequence(string s) {
         vector<int>ind(26);
-        vector<bool>seen(26);
-        string ans;
+        vector<bool>check(26);
+        stack<int>st;
+
+        for(int i=0;i<s.length();i++)ind[s[i] - 'a'] = i;
 
         for(int i = 0;i<s.length();i++){
-            ind[s[i] - 'a'] = i;
-        }
+            
+            if(check[s[i] - 'a'])continue;
 
-        for(int i=0;i<s.length();i++){
-            char ch = s[i];
-
-            if(seen[ch - 'a'])continue;
-
-            while(!ans.empty() && ans.back() > ch && ind[ans.back() - 'a'] > i){
-                seen[ans.back() - 'a'] = false;
-                ans.pop_back();
+            while(!st.empty() && st.top() > s[i] && ind[st.top() - 'a'] > i){
+                check[st.top() - 'a'] = false;
+                st.pop();
             }
-
-            ans.push_back(ch);
-            seen[ch - 'a'] = true;
+            st.push(s[i]);
+            check[s[i] - 'a'] = true;
         }
+        string ans;
+        while(!st.empty()){
+            ans += st.top();
+            st.pop();
+        }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
