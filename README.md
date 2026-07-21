@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
