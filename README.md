@@ -191,5 +191,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0338-counting-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
