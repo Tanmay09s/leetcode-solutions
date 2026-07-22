@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1025-divisor-game) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Table
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
