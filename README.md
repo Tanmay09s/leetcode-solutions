@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay09s/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0338-counting-bits) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Divide and Conquer
 |  |
 | ------- |
