@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay09s/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0338-counting-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
