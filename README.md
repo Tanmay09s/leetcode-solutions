@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Interactive
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
