@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1025-divisor-game) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Brainteaser
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1025-divisor-game) |
 ## Tree
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0486-predict-the-winner](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -258,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
