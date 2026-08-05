@@ -2,15 +2,19 @@ class Solution {
 public:
 
     int helper(vector<int>arr,int start,int end){
-        int len = end - start + 1;
-        vector<int>dp(len + 2, 0);
+        int next1 = 0;
+        int next2 = 0;
 
-        for(int i = len - 1 ;i >= 0; i--){
-            int take = arr[start + i] + dp[i+2];
-            int skip = dp[i+1];
-            dp[i] = max(take,skip);
+
+        for(int i = end ;i>= start ;i--){
+            int take = arr[i] + next2;
+            int skip = next1;
+
+            int curr = max(take,skip);
+            next2 = next1;
+            next1 = curr;
         }
-        return dp[0];
+           return next1;
     }
 
     int rob(vector<int>& arr) {
