@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Brainteaser
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Tanmay09s/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
