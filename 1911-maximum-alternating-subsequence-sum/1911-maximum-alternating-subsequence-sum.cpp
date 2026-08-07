@@ -1,21 +1,14 @@
 class Solution {
 public:
+    long long maxAlternatingSum(vector<int>& nums) {
+        int n = nums.size();
 
-    long long helper(vector<int>&arr,vector<vector<long long>>&dp,int i,int even){
-        if(i >= arr.size())return 0;
-        if(dp[i][even] != -1)return dp[i][even];
+        vector<vector<long>>dp(n+1,vector<long>(2,0));
 
-        long long skip = helper(arr,dp,i+1,even);
-        long long take;
-        if(even)take = arr[i] + helper(arr,dp,i+1,0);
-        else take = -arr[i] + helper(arr,dp,i+1,1);
-
-        return dp[i][even] = max(take,skip);
-    }
-    long long maxAlternatingSum(vector<int>& arr) {
-        int n = arr.size();
-        vector<vector<long long>>dp;
-        dp.assign(n,vector<long long>(2,-1));
-        return helper(arr,dp,0,1);
+        for(int i=1;i<n+1;i++){
+            dp[i][0] = max(dp[i-1][1] - nums[i-1] , dp[i-1][0]);
+            dp[i][1] = max(dp[i-1][0] + nums[i-1] , dp[i-1][1]);
+        }
+        return max(dp[n][0],dp[n][1]);
     }
 };
