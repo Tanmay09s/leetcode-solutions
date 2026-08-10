@@ -1,28 +1,17 @@
 class Solution {
 public:
+    bool winnerSquareGame(int n) {
+        vector<int>dp(n+1,false);
+        for(int i = 1;i<=n;i++){
+            for(int x = 1;x*x<=i;x++){
+                int rem = i - x * x;
 
-    bool helper(int n,vector<int>&dp){
-        // no stones left Current player cannot move
-        if(n == 0)return false;
-
-        if(dp[n] != -1)return dp[n];
-        //try every possible square
-        for(int x = 1;x*x <= n;x++){
-            int remaining = n - x * x;
-
-            //if opponent loses from here
-            // current player wins
-            if(!helper(remaining,dp)){
-                return dp[n] = true;
+                if(dp[rem] == false){
+                    dp[i] = true;
+                    break;
+                }
             }
         }
-        //No move can make opponent lose
-        return dp[n] = false;
-
-    }
-    
-    bool winnerSquareGame(int n) {
-        vector<int>dp(n+1,-1);
-        return helper(n,dp);
+        return dp[n];
     }
 };
