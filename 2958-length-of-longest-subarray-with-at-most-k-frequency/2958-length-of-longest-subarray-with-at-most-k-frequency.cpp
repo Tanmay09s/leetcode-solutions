@@ -1,13 +1,13 @@
 class Solution {
 public:
     int maxSubarrayLength(vector<int>& arr, int k) {
-        unordered_map<int,int>mpp;
-        int left = 0;
-        int right = 0;
         int n = arr.size();
+        int right = 0;
+        int left = 0;
         int ans = INT_MIN;
+        unordered_map<int,int>mpp;
 
-        while(right < n){
+        for(right;right < n;right++){
             mpp[arr[right]]++;
 
             while(mpp[arr[right]] > k){
@@ -15,7 +15,6 @@ public:
                 left++;
             }
             ans = max(ans,right - left + 1);
-            right++;
         }
         return ans;
     }
