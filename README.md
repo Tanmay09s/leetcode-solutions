@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0202-happy-number) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Tanmay09s/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
