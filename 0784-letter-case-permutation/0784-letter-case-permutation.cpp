@@ -9,10 +9,12 @@ public:
             helper(n,s,i+1,ans);
         }
         else{
+            char ch = s[i];
          s[i] = tolower(s[i]);
          helper(n,s,i+1,ans);
          s[i] = toupper(s[i]);
          helper(n,s,i+1,ans);
+         s[i] = ch;
         }
     }
     vector<string> letterCasePermutation(string s) {
