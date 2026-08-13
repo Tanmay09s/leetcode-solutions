@@ -1,29 +1,21 @@
 class Solution {
 public:
 
-   int helper(int i, int prev_idx, vector<int>& arr,
-               vector<vector<int>>& dp) {
+    int helper(vector<int>&arr,int idx,int prev_idx,vector<vector<int>>&dp){
+        if(idx == arr.size())return 0;
+        if(dp[idx][prev_idx + 1] != -1)return dp[idx][prev_idx + 1];
 
-        if (i == arr.size())
-            return 0;
-
-        if (dp[i][prev_idx + 1] != -1)
-            return dp[i][prev_idx + 1];
-
-        // Don't take arr[i]
-        int len = helper(i + 1, prev_idx, arr, dp);
-
-        // Take arr[i]
-        if (prev_idx == -1 || arr[i] > arr[prev_idx]) {
-            len = max(len, 1 + helper(i + 1, i, arr, dp));
+        int len1 = 0 + helper(arr,idx+1,prev_idx,dp);
+        int len2 = INT_MIN;
+        if(prev_idx == -1 || arr[idx] > arr[prev_idx]){
+             len2 = 1 + helper(arr,idx+1,idx,dp);
         }
-
-        return dp[i][prev_idx + 1] = len;
+        return dp[idx][prev_idx + 1] = max(len1,len2);
     }
-
-    int lengthOfLIS(vector<int>& nums) {
-        int n = nums.size();
+    int lengthOfLIS(vector<int>& arr) {
+        int n = arr.size();
         vector<vector<int>>dp(n,vector<int>(n+1,-1));
-        return helper(0,-1,nums,dp);
+
+        return helper(arr,0,-1,dp);
     }
 };
