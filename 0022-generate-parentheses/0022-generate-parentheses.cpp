@@ -7,10 +7,14 @@ public:
             return;
         }
         if(open < n){
-            helper(n,s + '(',open + 1,close,ans);
+            s = s + '(';
+            helper(n,s,open + 1,close,ans);
+            s.pop_back();
         }
         if(close < open){
-            helper(n,s + ')',open,close+1,ans);
+            s = s + ')';
+            helper(n,s,open,close+1,ans);
+            s.pop_back();
         }
     }
     vector<string> generateParenthesis(int n) {
