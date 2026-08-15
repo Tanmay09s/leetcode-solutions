@@ -1,19 +1,20 @@
 class Solution {
 public:
-    int longestSubsequence(vector<int>& arr) {
-        int n = arr.size();
+    int longestSubsequence(vector<int>& nums) {
+        int n = nums.size();
 
         int xr = 0;
         bool hasNonZero = false;
 
-        for(int x : arr){
-            xr = xr ^ x;
+        for(int num : nums){
+            xr = xr ^ num;
 
-            if(x != 0)hasNonZero = true;
+            if(xr != 0)hasNonZero = true;
         }
+
         if(xr != 0)return n;
 
-        if(!hasNonZero)return 0;
+        if(hasNonZero == false)return 0;
 
         return n - 1;
     }
