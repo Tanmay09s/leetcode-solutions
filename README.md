@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0784-letter-case-permutation) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0784-letter-case-permutation](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0784-letter-case-permutation) |
