@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0202-happy-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0198-house-robber](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0198-house-robber) |
