@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -392,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
