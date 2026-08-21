@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0198-house-robber) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Tanmay09s/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Tanmay09s/leetcode-solutions/tree/master/0113-path-sum-ii) |
